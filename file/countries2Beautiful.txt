@@ -1,0 +1,236 @@
+1 Afghanistan Kabul 2.7657145E7 652230.0 Asia IRN PAK TKM UZB TJK CHN
+2 Åland Islands Mariehamn 28875.0 1580.0 Europe 
+3 Albania Tirana 2886026.0 28748.0 Europe MNE GRC MKD KOS
+4 Algeria Algiers 4.04E7 2381741.0 Africa TUN LBY NER ESH MRT MLI MAR
+5 American Samoa Pago Pago 57100.0 199.0 Oceania 
+6 Andorra Andorra la Vella 78014.0 468.0 Europe FRA ESP
+7 Angola Luanda 2.5868E7 1246700.0 Africa COG COD ZMB NAM
+8 Anguilla The Valley 13452.0 91.0 Americas 
+9 Antigua and Barbuda Saint John's 86295.0 442.0 Americas 
+10 Argentina Buenos Aires 4.35904E7 2780400.0 Americas BOL BRA CHL PRY URY
+11 Armenia Yerevan 2994400.0 29743.0 Asia AZE GEO IRN TUR
+12 Aruba Oranjestad 107394.0 180.0 Americas 
+13 Australia Canberra 2.411736E7 7692024.0 Oceania 
+14 Austria Vienna 8725931.0 83871.0 Europe CZE DEU HUN ITA LIE SVK SVN CHE
+15 Azerbaijan Baku 9730500.0 86600.0 Asia ARM GEO IRN RUS TUR
+16 Bahamas Nassau 378040.0 13943.0 Americas 
+17 Bahrain Manama 1404900.0 765.0 Asia 
+18 Bangladesh Dhaka 1.6100679E8 147570.0 Asia MMR IND
+19 Barbados Bridgetown 285000.0 430.0 Americas 
+20 Belarus Minsk 9498700.0 207600.0 Europe LVA LTU POL RUS UKR
+21 Belgium Brussels 1.1319511E7 30528.0 Europe FRA DEU LUX NLD
+22 Belize Belmopan 370300.0 22966.0 Americas GTM MEX
+23 Benin Porto-Novo 1.0653654E7 112622.0 Africa BFA NER NGA TGO
+24 Bermuda Hamilton 61954.0 54.0 Americas 
+25 Bhutan Thimphu 775620.0 38394.0 Asia CHN IND
+26 Bolivia (Plurinational State of) Sucre 1.0985059E7 1098581.0 Americas ARG BRA CHL PRY PER
+27 Bonaire, Sint Eustatius and Saba Kralendijk 17408.0 294.0 Americas 
+28 Bosnia and Herzegovina Sarajevo 3531159.0 51209.0 Europe HRV MNE SRB
+29 Botswana Gaborone 2141206.0 582000.0 Africa NAM ZAF ZMB ZWE
+30 Brazil Brasília 2.06135893E8 8515767.0 Americas ARG BOL COL GUF GUY PRY PER SUR URY VEN
+31 British Indian Ocean Territory Diego Garcia 3000.0 60.0 Africa 
+32 Virgin Islands (British) Road Town 28514.0 151.0 Americas 
+33 Virgin Islands (U.S.) Charlotte Amalie 114743.0 346.0 Americas 
+34 Brunei Darussalam Bandar Seri Begawan 411900.0 5765.0 Asia MYS
+35 Bulgaria Sofia 7153784.0 110879.0 Europe GRC MKD ROU SRB TUR
+36 Burkina Faso Ouagadougou 1.9034397E7 272967.0 Africa BEN CIV GHA MLI NER TGO
+37 Burundi Bujumbura 1.0114505E7 27834.0 Africa COD RWA TZA
+38 Cambodia Phnom Penh 1.5626444E7 181035.0 Asia LAO THA VNM
+39 Cameroon Yaoundé 2.2709892E7 475442.0 Africa CAF TCD COG GNQ GAB NGA
+40 Canada Ottawa 3.6155487E7 9984670.0 Americas USA
+41 Cabo Verde Praia 531239.0 4033.0 Africa 
+42 Cayman Islands George Town 58238.0 264.0 Americas 
+43 Central African Republic Bangui 4998000.0 622984.0 Africa CMR TCD COD COG SSD SDN
+44 Chad N'Djamena 1.4497E7 1284000.0 Africa CMR CAF LBY NER NGA SSD
+45 Chile Santiago 1.81919E7 756102.0 Americas ARG BOL PER
+46 China Beijing 1.377422166E9 9640011.0 Asia AFG BTN MMR HKG IND KAZ PRK KGZ LAO MAC MNG PAK RUS TJK VNM
+47 Christmas Island Flying Fish Cove 2072.0 135.0 Oceania 
+48 Cocos (Keeling) Islands West Island 550.0 14.0 Oceania 
+49 Colombia Bogotá 4.8759958E7 1141748.0 Americas BRA ECU PAN PER VEN
+50 Comoros Moroni 806153.0 1862.0 Africa 
+51 Congo Brazzaville 4741000.0 342000.0 Africa AGO CMR CAF COD GAB
+52 Congo (Democratic Republic of the) Kinshasa 8.5026E7 2344858.0 Africa AGO BDI CAF COG RWA SSD TZA UGA ZMB
+53 Cook Islands Avarua 18100.0 236.0 Oceania 
+54 Costa Rica San José 4890379.0 51100.0 Americas NIC PAN
+55 Croatia Zagreb 4190669.0 56594.0 Europe BIH HUN MNE SRB SVN
+56 Cuba Havana 1.1239004E7 109884.0 Americas 
+57 Curaçao Willemstad 154843.0 444.0 Americas 
+58 Cyprus Nicosia 847000.0 9251.0 Europe GBR
+59 Czech Republic Prague 1.0558524E7 78865.0 Europe AUT DEU POL SVK
+60 Denmark Copenhagen 5717014.0 43094.0 Europe DEU
+61 Djibouti Djibouti 900000.0 23200.0 Africa ERI ETH SOM
+62 Dominica Roseau 71293.0 751.0 Americas 
+63 Dominican Republic Santo Domingo 1.0075045E7 48671.0 Americas HTI
+64 Ecuador Quito 1.6545799E7 276841.0 Americas COL PER
+65 Egypt Cairo 9.129E7 1002450.0 Africa ISR LBY SDN
+66 El Salvador San Salvador 6520675.0 21041.0 Americas GTM HND
+67 Equatorial Guinea Malabo 1222442.0 28051.0 Africa CMR GAB
+68 Eritrea Asmara 5352000.0 117600.0 Africa DJI ETH SDN
+69 Estonia Tallinn 1315944.0 45227.0 Europe LVA RUS
+70 Ethiopia Addis Ababa 9.2206005E7 1104300.0 Africa DJI ERI KEN SOM SSD SDN
+71 Falkland Islands (Malvinas) Stanley 2563.0 12173.0 Americas 
+72 Faroe Islands Tórshavn 49376.0 1393.0 Europe 
+73 Fiji Suva 867000.0 18272.0 Oceania 
+74 Finland Helsinki 5491817.0 338424.0 Europe NOR SWE RUS
+75 France Paris 6.671E7 640679.0 Europe AND BEL DEU ITA LUX MCO ESP CHE
+76 French Polynesia Papeetē 271800.0 4167.0 Oceania 
+77 French Southern Territories Port-aux-Français 140.0 7747.0 Africa 
+78 Gabon Libreville 1802278.0 267668.0 Africa CMR COG GNQ
+79 Gambia Banjul 1882450.0 11295.0 Africa SEN
+80 Georgia Tbilisi 3720400.0 69700.0 Asia ARM AZE RUS TUR
+81 Germany Berlin 8.17709E7 357114.0 Europe AUT BEL CZE DNK FRA LUX NLD POL CHE
+82 Ghana Accra 2.7670174E7 238533.0 Africa BFA CIV TGO
+83 Gibraltar Gibraltar 33140.0 6.0 Europe ESP
+84 Greece Athens 1.0858018E7 131990.0 Europe ALB BGR TUR MKD
+85 Greenland Nuuk 55847.0 2166086.0 Americas 
+86 Grenada St. George's 103328.0 344.0 Americas 
+87 Guam Hagåtña 184200.0 549.0 Oceania 
+88 Guatemala Guatemala City 1.6176133E7 108889.0 Americas BLZ SLV HND MEX
+89 Guernsey St. Peter Port 62999.0 78.0 Europe 
+90 Guinea Conakry 1.2947E7 245857.0 Africa CIV GNB LBR MLI SEN SLE
+91 Guinea-Bissau Bissau 1547777.0 36125.0 Africa GIN SEN
+92 Guyana Georgetown 746900.0 214969.0 Americas BRA SUR VEN
+93 Haiti Port-au-Prince 1.1078033E7 27750.0 Americas DOM
+94 Holy See Rome 451.0 0.0 Europe ITA
+95 Honduras Tegucigalpa 8576532.0 112492.0 Americas GTM SLV NIC
+96 Hong Kong City of Victoria 7324300.0 1104.0 Asia CHN
+97 Hungary Budapest 9823000.0 93028.0 Europe AUT HRV ROU SRB SVK SVN UKR
+98 Iceland Reykjavík 334300.0 103000.0 Europe 
+99 India New Delhi 1.29521E9 3287590.0 Asia AFG BGD BTN MMR CHN NPL PAK LKA
+100 Indonesia Jakarta 2.58705E8 1904569.0 Asia TLS MYS PNG
+101 Côte d'Ivoire Yamoussoukro 2.2671331E7 322463.0 Africa BFA GHA GIN LBR MLI
+102 Iran (Islamic Republic of) Tehran 7.93699E7 1648195.0 Asia AFG ARM AZE IRQ PAK TUR TKM
+103 Iraq Baghdad 3.7883543E7 438317.0 Asia IRN JOR KWT SAU SYR TUR
+104 Ireland Dublin 6378000.0 70273.0 Europe GBR
+105 Isle of Man Douglas 84497.0 572.0 Europe 
+106 Israel Jerusalem 8527400.0 20770.0 Asia EGY JOR LBN SYR
+107 Italy Rome 6.0665551E7 301336.0 Europe AUT FRA SMR SVN CHE VAT
+108 Jamaica Kingston 2723246.0 10991.0 Americas 
+109 Japan Tokyo 1.2696E8 377930.0 Asia 
+110 Jersey Saint Helier 100800.0 116.0 Europe 
+111 Jordan Amman 9531712.0 89342.0 Asia IRQ ISR SAU SYR
+112 Kazakhstan Astana 1.77532E7 2724900.0 Asia CHN KGZ RUS TKM UZB
+113 Kenya Nairobi 4.7251E7 580367.0 Africa ETH SOM SSD TZA UGA
+114 Kiribati South Tarawa 113400.0 811.0 Oceania 
+115 Kuwait Kuwait City 4183658.0 17818.0 Asia IRN SAU
+116 Kyrgyzstan Bishkek 6047800.0 199951.0 Asia CHN KAZ TJK UZB
+117 Lao People's Democratic Republic Vientiane 6492400.0 236800.0 Asia MMR KHM CHN THA VNM
+118 Latvia Riga 1961600.0 64559.0 Europe BLR EST LTU RUS
+119 Lebanon Beirut 5988000.0 10452.0 Asia ISR SYR
+120 Lesotho Maseru 1894194.0 30355.0 Africa ZAF
+121 Liberia Monrovia 4615000.0 111369.0 Africa GIN CIV SLE
+122 Libya Tripoli 6385000.0 1759540.0 Africa DZA TCD EGY NER SDN TUN
+123 Liechtenstein Vaduz 37623.0 160.0 Europe AUT CHE
+124 Lithuania Vilnius 2872294.0 65300.0 Europe BLR LVA POL RUS
+125 Luxembourg Luxembourg 576200.0 2586.0 Europe BEL FRA DEU
+126 Macedonia (the former Yugoslav Republic of) Skopje 2058539.0 25713.0 Europe ALB BGR GRC KOS SRB
+127 Madagascar Antananarivo 2.2434363E7 587041.0 Africa 
+128 Malawi Lilongwe 1.683291E7 118484.0 Africa MOZ TZA ZMB
+129 Malaysia Kuala Lumpur 3.1405416E7 330803.0 Asia BRN IDN THA
+130 Maldives Malé 344023.0 300.0 Asia 
+131 Mali Bamako 1.8135E7 1240192.0 Africa DZA BFA GIN CIV MRT NER SEN
+132 Malta Valletta 425384.0 316.0 Europe 
+133 Marshall Islands Majuro 54880.0 181.0 Oceania 
+134 Mauritania Nouakchott 3718678.0 1030700.0 Africa DZA MLI SEN ESH
+135 Mauritius Port Louis 1262879.0 2040.0 Africa 
+136 Mexico Mexico City 1.22273473E8 1964375.0 Americas BLZ GTM USA
+137 Micronesia (Federated States of) Palikir 102800.0 702.0 Oceania 
+138 Moldova (Republic of) Chișinău 3553100.0 33846.0 Europe ROU UKR
+139 Monaco Monaco 38400.0 2.0 Europe FRA
+140 Mongolia Ulan Bator 3093100.0 1564110.0 Asia CHN RUS
+141 Montenegro Podgorica 621810.0 13812.0 Europe ALB BIH HRV KOS SRB
+142 Montserrat Plymouth 4922.0 102.0 Americas 
+143 Morocco Rabat 3.3337529E7 446550.0 Africa DZA ESH ESP
+144 Mozambique Maputo 2.64237E7 801590.0 Africa MWI ZAF SWZ TZA ZMB ZWE
+145 Myanmar Naypyidaw 5.141942E7 676578.0 Asia BGD CHN IND LAO THA
+146 Namibia Windhoek 2324388.0 825615.0 Africa AGO BWA ZAF ZMB
+147 Nauru Yaren 10084.0 21.0 Oceania 
+148 Nepal Kathmandu 2.84315E7 147181.0 Asia CHN IND
+149 Netherlands Amsterdam 1.70198E7 41850.0 Europe BEL DEU
+150 New Caledonia Nouméa 268767.0 18575.0 Oceania 
+151 New Zealand Wellington 4697854.0 270467.0 Oceania 
+152 Nicaragua Managua 6262703.0 130373.0 Americas CRI HND
+153 Niger Niamey 2.0715E7 1267000.0 Africa DZA BEN BFA TCD LBY MLI NGA
+154 Nigeria Abuja 1.86988E8 923768.0 Africa BEN CMR TCD NER
+155 Niue Alofi 1470.0 260.0 Oceania 
+156 Norfolk Island Kingston 2302.0 36.0 Oceania 
+157 Korea (Democratic People's Republic of) Pyongyang 2.5281E7 120538.0 Asia CHN KOR RUS
+158 Northern Mariana Islands Saipan 56940.0 464.0 Oceania 
+159 Norway Oslo 5223256.0 323802.0 Europe FIN SWE RUS
+160 Oman Muscat 4420133.0 309500.0 Asia SAU ARE YEM
+161 Pakistan Islamabad 1.94125062E8 881912.0 Asia AFG CHN IND IRN
+162 Palau Ngerulmud 17950.0 459.0 Oceania 
+163 Panama Panama City 3814672.0 75417.0 Americas COL CRI
+164 Papua New Guinea Port Moresby 8083700.0 462840.0 Oceania IDN
+165 Paraguay Asunción 6854536.0 406752.0 Americas ARG BOL BRA
+166 Peru Lima 3.14887E7 1285216.0 Americas BOL BRA CHL COL ECU
+167 Philippines Manila 1.032798E8 342353.0 Asia 
+168 Pitcairn Adamstown 56.0 47.0 Oceania 
+169 Poland Warsaw 3.8437239E7 312679.0 Europe BLR CZE DEU LTU RUS SVK UKR
+170 Portugal Lisbon 1.0374822E7 92090.0 Europe ESP
+171 Puerto Rico San Juan 3474182.0 8870.0 Americas 
+172 Qatar Doha 2587564.0 11586.0 Asia SAU
+173 Republic of Kosovo Pristina 1733842.0 10908.0 Europe ALB MKD MNE SRB
+174 Romania Bucharest 1.9861408E7 238391.0 Europe BGR HUN MDA SRB UKR
+175 Russian Federation Moscow 1.46599183E8 1.7124442E7 Europe AZE BLR CHN EST FIN GEO KAZ PRK LVA LTU MNG NOR POL UKR
+176 Rwanda Kigali 1.1553188E7 26338.0 Africa BDI COD TZA UGA
+177 Saint Barthélemy Gustavia 9417.0 21.0 Americas 
+178 Saint Kitts and Nevis Basseterre 46204.0 261.0 Americas 
+179 Saint Lucia Castries 186000.0 616.0 Americas 
+180 Saint Martin (French part) Marigot 36979.0 53.0 Americas SXM NLD
+181 Saint Pierre and Miquelon Saint-Pierre 6069.0 242.0 Americas 
+182 Saint Vincent and the Grenadines Kingstown 109991.0 389.0 Americas 
+183 Samoa Apia 194899.0 2842.0 Oceania 
+184 San Marino City of San Marino 33005.0 61.0 Europe ITA
+185 Sao Tome and Principe São Tomé 187356.0 964.0 Africa 
+186 Saudi Arabia Riyadh 3.22482E7 2149690.0 Asia IRQ JOR KWT OMN QAT ARE YEM
+187 Senegal Dakar 1.4799859E7 196722.0 Africa GMB GIN GNB MLI MRT
+188 Serbia Belgrade 7076372.0 88361.0 Europe BIH BGR HRV HUN KOS MKD MNE ROU
+189 Seychelles Victoria 91400.0 452.0 Africa 
+190 Sierra Leone Freetown 7075641.0 71740.0 Africa GIN LBR
+191 Singapore Singapore 5535000.0 710.0 Asia 
+192 Sint Maarten (Dutch part) Philipsburg 38247.0 34.0 Americas MAF
+193 Slovakia Bratislava 5426252.0 49037.0 Europe AUT CZE HUN POL UKR
+194 Slovenia Ljubljana 2064188.0 20273.0 Europe AUT HRV ITA HUN
+195 Solomon Islands Honiara 642000.0 28896.0 Oceania 
+196 Somalia Mogadishu 1.1079E7 637657.0 Africa DJI ETH KEN
+197 South Africa Pretoria 5.5653654E7 1221037.0 Africa BWA LSO MOZ NAM SWZ ZWE
+198 Korea (Republic of) Seoul 5.0801405E7 100210.0 Asia PRK
+199 South Sudan Juba 1.2131E7 619745.0 Africa CAF COD ETH KEN SDN UGA
+200 Spain Madrid 4.6438422E7 505992.0 Europe AND FRA GIB PRT MAR
+201 Sri Lanka Colombo 2.0966E7 65610.0 Asia IND
+202 Sudan Khartoum 3.95987E7 1886068.0 Africa CAF TCD EGY ERI ETH LBY SSD
+203 Suriname Paramaribo 541638.0 163820.0 Americas BRA GUF FRA GUY
+204 Swaziland Lobamba 1132657.0 17364.0 Africa MOZ ZAF
+205 Sweden Stockholm 9894888.0 450295.0 Europe FIN NOR
+206 Switzerland Bern 8341600.0 41284.0 Europe AUT FRA ITA LIE DEU
+207 Syrian Arab Republic Damascus 1.8564E7 185180.0 Asia IRQ ISR JOR LBN TUR
+208 Taiwan Taipei 2.3503349E7 36193.0 Asia 
+209 Tajikistan Dushanbe 8593600.0 143100.0 Asia AFG CHN KGZ UZB
+210 Tanzania, United Republic of Dodoma 5.5155E7 945087.0 Africa BDI COD KEN MWI MOZ RWA UGA ZMB
+211 Thailand Bangkok 6.5327652E7 513120.0 Asia MMR KHM LAO MYS
+212 Timor-Leste Dili 1167242.0 14874.0 Asia IDN
+213 Togo Lomé 7143000.0 56785.0 Africa BEN BFA GHA
+214 Tokelau Fakaofo 1411.0 12.0 Oceania 
+215 Tonga Nuku'alofa 103252.0 747.0 Oceania 
+216 Trinidad and Tobago Port of Spain 1349667.0 5130.0 Americas 
+217 Tunisia Tunis 1.11544E7 163610.0 Africa DZA LBY
+218 Turkey Ankara 7.8741053E7 783562.0 Asia ARM AZE BGR GEO GRC IRN IRQ SYR
+219 Turkmenistan Ashgabat 4751120.0 488100.0 Asia AFG IRN KAZ UZB
+220 Turks and Caicos Islands Cockburn Town 31458.0 948.0 Americas 
+221 Tuvalu Funafuti 10640.0 26.0 Oceania 
+222 Uganda Kampala 3.38607E7 241550.0 Africa COD KEN RWA SSD TZA
+223 Ukraine Kiev 4.2692393E7 603700.0 Europe BLR HUN MDA POL ROU RUS SVK
+224 United Arab Emirates Abu Dhabi 9856000.0 83600.0 Asia OMN SAU
+225 United Kingdom of Great Britain and Northern Ireland London 6.511E7 242900.0 Europe IRL
+226 United States of America Washington, D.C. 3.23947E8 9629091.0 Americas CAN MEX
+227 Uruguay Montevideo 3480222.0 181034.0 Americas ARG BRA
+228 Uzbekistan Tashkent 3.15764E7 447400.0 Asia AFG KAZ KGZ TJK TKM
+229 Vanuatu Port Vila 277500.0 12189.0 Oceania 
+230 Venezuela (Bolivarian Republic of) Caracas 3.10287E7 916445.0 Americas BRA COL GUY
+231 Viet Nam Hanoi 9.27E7 331212.0 Asia KHM CHN LAO
+232 Wallis and Futuna Mata-Utu 11750.0 142.0 Oceania 
+233 Western Sahara El Aaiún 510713.0 266000.0 Africa DZA MRT MAR
+234 Yemen Sana'a 2.7478E7 527968.0 Asia OMN SAU
+235 Zambia Lusaka 1.5933883E7 752612.0 Africa AGO BWA COD MWI MOZ NAM TZA ZWE
+236 Zimbabwe Harare 1.4240168E7 390757.0 Africa BWA MOZ ZAF ZMB
